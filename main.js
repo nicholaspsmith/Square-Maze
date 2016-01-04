@@ -14,10 +14,10 @@
     right: false
   };
   var player = {
-    x: 55,
-    y: 55,
-    width: 40,
-    height: 40,
+    x: 50,
+    y: 50,
+    width: 42,
+    height: 42,
     collision: false,
     render: function() {
       ctx.fillStyle = "#004444";
